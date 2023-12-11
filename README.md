@@ -1,4 +1,4 @@
-﻿
+#0066ee﻿
 
 <?xml version="1.0"?> <form string "Animal"> <sheet>
 <div class="oe_title" style="background: linear-gradient(to right, #ffcc00, #ff9900); text-align: center;">
